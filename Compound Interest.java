@@ -56,3 +56,4 @@ public class Compound_Interest {
         System.out.printf("The amount after %.1f years is $%.1f", Time, FutureVal);
     }
 }
+
